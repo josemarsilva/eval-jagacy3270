@@ -1,0 +1,10 @@
+# Eclipse Core, Eclipse Java Development Tools
+.settings/
+.project
+.classpath
+
+# Some folders to ignore
+/target/
+/dist/
+/log/*
+/tmp/*

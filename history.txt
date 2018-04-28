@@ -1,0 +1,38 @@
+Version 4.0
+-----------
+Initial production release.
+DBCS support.
+
+Version 4.1
+-----------
+1) Fixed paste and block paste problems.
+2) Fixed history problems and made default 10 pages.
+3) Customizable internationalization support.
+4) Added Settings menu bar item.
+
+Version 4.1.1
+-------------
+Fixed Mac OS X Newline and Enter keys.
+
+Version 4.1.2
+-------------
+1) Fixed Mac OS X PF keys.
+2) Added Auto tab to Settings menu.
+
+Version 4.2
+-----------
+1) Added proxy support.
+2) Added jagacy.emulator.fontNumber and jagacy.emulator.fontStyle properties (configurable fonts).
+
+Version 4.2.1
+-------------
+1) Changed default font for windows/linux/mac.
+2) Wait methods now show intermediate screens during screen scraping.
+
+Version 4.2.2
+-------------
+Fixed proxy support for SSL.
+
+Version 4.2.3
+-------------
+Misc GUI fixes.

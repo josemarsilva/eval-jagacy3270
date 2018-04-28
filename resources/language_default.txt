@@ -1,0 +1,152 @@
+gui.menu.file=File
+gui.menu.new=New
+gui.menu.open=Open...
+gui.menu.save=Save...
+gui.menu.save_as=Save As...
+gui.menu.restore_defaults=Restore Defaults
+gui.menu.connect_session=Connect Session...
+gui.menu.disconnect_session=Disconnect Session
+gui.menu.print=Print
+gui.menu.exit=Exit
+gui.menu.edit=Edit
+gui.menu.cut=Cut
+gui.menu.copy=Copy
+gui.menu.paste=Paste
+gui.menu.settings=Settings
+gui.menu.blink_cursor=Blink Cursor
+gui.menu.paste_block=Block Paste
+gui.menu.show_cert=Show Unknown SSL Certificates
+gui.menu.auto_tab=Auto tab
+gui.menu.show_connect_dialog=Show Connect Session Dialog
+gui.menu.font=Font
+gui.menu.help=Help
+gui.menu.keyboard_mapping=Keyboard Mapping...
+gui.menu.about=About
+gui.menu.extended=Extended On/Off
+gui.menu.pause=Pause On/Off
+gui.menu.hidden=Hidden On/Off
+
+gui.tip.new=New profile
+gui.tip.open=Open profile
+gui.tip.save=Save profile
+gui.tip.restore_defaults=Restore Defaults
+gui.tip.connect_session=Connects a session
+gui.tip.disconnect_session=Disconnects a session
+gui.tip.previous=Previous screen
+gui.tip.next=Next screen
+gui.tip.print=Prints the screen
+gui.tip.exit=Exits the program
+gui.tip.pause=Pauses the screen
+gui.tip.extended=Turns extended attributes on/off
+gui.tip.cut=Cuts the highlighted text to the clipboard
+gui.tip.copy=Copies the highlighted text to the clipboard
+gui.tip.paste=Pastes the contents of the clipboard onto the screen
+gui.tip.hidden=Shows/Hides hidden fields
+gui.tip.keyboard_mapping=Keyboard help
+gui.tip.about=About the program
+
+gui.option.connected=Connected
+gui.option.disconnected=Disconnected
+gui.option.locked=Locked
+gui.option.previous=Previous
+gui.option.insert=Insert
+gui.option.secure=Secure
+gui.option.hidden=Hidden
+gui.option.paused=Paused
+gui.option.extended_off=Extended Off
+
+gui.dialog.disconnect_session.title=Disconnect Session
+gui.dialog.disconnect_session.text=Are you sure you want to disconnect /0?
+gui.dialog.exit_program.title=Exit Program
+gui.dialog.exit_program.text=Are you sure you want to exit /0?
+gui.dialog.about.title=About /0
+gui.dialog.print_screen.title=Print Screen
+gui.dialog.keyboard_mapping.title=Keyboard Mapping
+gui.dialog.ok=OK
+gui.dialog.keyboard_mapping.left=Left
+gui.dialog.keyboard_mapping.right=Right
+gui.dialog.keyboard_mapping.left=Left
+gui.dialog.keyboard_mapping.key=Key
+gui.dialog.keyboard_mapping.keyboard=Keyboard
+gui.dialog.warning.title=Warning
+gui.dialog.error.title=Error
+gui.dialog.disconnected.title=Disconnected
+gui.dialog.disconnected.text=/0 has disconnected.
+
+gui.menu.macro=Macro
+gui.menu.macro.record=Record...
+gui.menu.macro.play=Play...
+gui.menu.macro.stop=Stop
+gui.menu.macro.edit=Edit...
+gui.dialog.macro_started=Recording started...
+gui.dialog.macro_stopped=Recording stopped.
+gui.tip.macro.play=Play macro
+gui.dialog.macro.select.title=Select a Macro File
+gui.dialog.macro.select.button=Select
+gui.dialog.macro.select.tip=Selects a macro file
+gui.dialog.macro.edit.title=Edit Macro
+gui.dialog.macro.edit.row=Row
+gui.dialog.macro.edit.column=Column
+gui.dialog.macro.edit.keycode=Key Code
+gui.dialog.cancel=Cancel
+gui.dialog.insert=Insert
+gui.dialog.delete=Delete
+gui.dialog.macro_button=Macro button (0=none):
+
+gui.dialog.profile.save.title=Save Changes
+gui.dialog.profile.save.text=Do you want to save the current profile?
+gui.dialog.profile.open.title=Open Profile
+gui.dialog.profile.open.text=Open
+gui.dialog.profile.open.tip=Opens a profile
+gui.dialog.profile.save_as.title=Save Profile
+gui.dialog.profile.save_as.text=Save
+gui.dialog.profile.save_as.tip=Saves a profile
+gui.dialog.profile.overwrite.title=Overwrite
+gui.dialog.profile.overwrite.text=File exists, overwrite?
+
+gui.dialog.connect.title=Connect Session
+gui.dialog.connect.host=Host:
+gui.dialog.connect.port=Port:
+gui.dialog.connect.use_proxy=Use Proxy: 
+gui.dialog.connect.proxy_host=Proxy Host:
+gui.dialog.connect.proxy_port=Proxy Port:
+gui.dialog.connect.auto_reconnect=Auto Reconnect:
+gui.dialog.connect.device_name=Device/LU Name:
+gui.dialog.connect.terminal=Terminal:
+gui.dialog.connect.slow=Slow
+gui.dialog.connect.medium=Medium
+gui.dialog.connect.fast=Fast
+gui.dialog.connect.update_speed=  Update Speed:  
+gui.dialog.connect.session_error.title=Connect Session Error
+gui.dialog.connect.session_error.no_host=Host not specified
+gui.dialog.connect.session_error.no_port=Port not specified
+
+gui.cert.version=Version: 
+gui.cert.serial=Serial Number: 
+gui.cert.signature=Signature Algorithm: 
+gui.cert.issuer=Issuer: 
+gui.cert.valid_from=Valid From: 
+gui.cert.valid_to=Valid To: 
+gui.cert.subject_dn=Subject DN: 
+gui.cert.public_key=Public Key: 
+
+
+#############################################################################
+
+
+exception.conduit.unknown_host=Unknown host /0
+exception.conduit.no_socket=Could not open host /0
+exception.conduit.device_reject=Device name rejected
+exception.controller.dbcs=Double Byte Character Set (DBCS) support not enabled, set jagacy.dbcs=true
+exception.controller.eval_exceeded=Evaluation 25 page limit exceeded
+exception.session.closed=Session is closed
+
+
+#############################################################################
+
+patents.options=Options
+patents.look_and_feel=Look and Feel
+patents.tip=Defines the look and feel of the program
+
+
+
